@@ -1,2 +1,1 @@
-# My Homepage
-Enjoy!
+# my-homepage

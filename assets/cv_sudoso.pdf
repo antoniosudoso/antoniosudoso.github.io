@@ -11,7 +11,7 @@
   Antonio M. Sudoso
 
 
-  | CC-SOS-SDP
+  | Curriculum Vitae
 
 </title>
 <meta name="description" content="">
@@ -36,7 +36,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/projects/5_project/">
+<link rel="canonical" href="/assets/cv_sudoso.pdf">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -139,8 +139,8 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">CC-SOS-SDP</h1>
-    <p class="post-description">Global Optimization for MSSC with cardinality constraints</p>
+    <h1 class="post-title">Curriculum Vitae</h1>
+    <p class="post-description"></p>
   </header>
 
   <article>
